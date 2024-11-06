@@ -1,4 +1,4 @@
-# Phylogenetic Tree SVG Formatter
+# Phylogenetic Tree SVG Formatter - Internet connection is required to run
 
 This script processes SVG files to format genus and species names in italics and highlights any "type" keywords in bold. It uses **MyCoPortal** to verify the validity of genus names.
 
