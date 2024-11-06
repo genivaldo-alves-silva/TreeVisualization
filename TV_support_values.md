@@ -1,6 +1,6 @@
 # Tree Visualization With Support Values
 
-This script uses Toytree and Toyplot to load, root, and visualize a phylogenetic tree from a local file. It applies specific styling based on node support values, generates a custom visualization, and exports the output to an SVG file.
+This script uses Toytree and Toyplot to load, root, and visualize a phylogenetic tree (`.tre`) from a local file. It applies specific styling based on node support values, generates a custom visualization, and exports the output to an SVG file.
 
 ## Import Libraries
 
