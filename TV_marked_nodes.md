@@ -1,4 +1,4 @@
-# Tree Visualization Script
+# Tree Visualization With Marked Nodes
 
 This script uses **Toytree** and **Toyplot** to load, root, and visualize a phylogenetic tree from a `.tre` file. Nodes are customized based on their support values, and the resulting tree can be saved in multiple formats.
 
